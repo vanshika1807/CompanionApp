@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Admin College App</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="todo">TODO</string>
+    <string name="notice_title">Notice Title</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="click_to_login">Click_to_login</string>
+    <string name="Register">Register</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="logout">LOGOUT</string>
+    <string name="companion_app">Companion App</string>
+</resources>
